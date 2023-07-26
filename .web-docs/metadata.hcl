@@ -2,7 +2,7 @@
 # https://github.com/hashicorp/integration-template#metadata-configuration
 integration {
   name = "Naver Cloud"
-  description = "TODO"
+  description = "The Naver Cloud plugin can be used with HashiCorp Packer to create custom images on the Naver Cloud platform"
   identifier = "packer/BrandonRomano/ncloud"
   component {
     type = "builder"
