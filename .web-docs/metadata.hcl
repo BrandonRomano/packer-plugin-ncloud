@@ -3,7 +3,7 @@
 integration {
   name = "Naver Cloud"
   description = "The Naver Cloud plugin can be used with HashiCorp Packer to create custom images on the Naver Cloud platform"
-  identifier = "packer/BrandonRomano/ncloud"
+  identifier = "packer/hashicorp/ncloud"
   component {
     type = "builder"
     name = "Naver Cloud Platform"
